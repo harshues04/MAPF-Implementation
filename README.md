@@ -1,6 +1,6 @@
 # Multi-Agent Path Finding (MAPF) Implementations
 
-A collection of Python implementations for Multi-Agent Path Finding algorithms based on the paper ["Overview of Multi-Agent Path Finding (MAPF)"](https://aaai.org/ocs/index.php/SOCS/SOCS20/paper/view/18510) by Wolfgang Hönig, Jiaoyang Li, and Sven Koenig (Model AI 2020 Assignments).
+A collection of Python implementations for Multi-Agent Path Finding algorithms based on the paper Overview of Multi-Agent Path Finding (MAPF) by Wolfgang Hönig, Jiaoyang Li, and Sven Koenig (Model AI 2020 Assignments).
 
 These implementations solve the MAPF problem for robotic navigation in grid-based environments, demonstrating different algorithms and their applications on various grid configurations.
 
